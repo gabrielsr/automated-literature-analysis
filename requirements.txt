@@ -4,7 +4,7 @@ pybliometrics==2.2
 numpy
 pandas
 matplotlib
-scikit-learn==0.20.0
+scikit-learn==0.22.0
 seaborn
 wordcloud
 tqdm
